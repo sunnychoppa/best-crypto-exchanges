@@ -1,0 +1,19 @@
+{
+  "name": "best-crypto-exchanges",
+  "version": "0.0.0",
+  "description": "buy and sell crypto safely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnychoppa/best-crypto-exchanges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnychoppa/best-crypto-exchanges/issues"
+  },
+  "homepage": "https://github.com/sunnychoppa/best-crypto-exchanges#readme"
+}
