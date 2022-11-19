@@ -9,7 +9,7 @@
       "binance vs crypto.com"
 ],
 "repository": "https://github.com/sunnychoppa/best-crypto-exchanges.git",
-"license": "ISC",
+"license": "MIT",
 "engines": {
   "atom": ">=1.0.0 <2.0.0"
   }
